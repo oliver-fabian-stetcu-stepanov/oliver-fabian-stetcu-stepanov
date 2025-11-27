@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/oliver-fabian-stetcu">
     <img src="https://img.shields.io/badge/LinkedIn-Oliver_Fabián_Stetcu_Stepanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ZiwiiDev&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br>
@@ -121,13 +120,13 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oliver-fabian-stetcu-stepanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ZiwiiDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" />
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=oliver-fabian-stetcu-stepanov&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" />
 
 <br>
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=10" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-fabian-stetcu-stepanov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=10" />
 
 </div>
 
@@ -145,5 +144,5 @@
 
 <br>
 
-⭐️ From [ZiwiiDev](https://github.com/ZiwiiDev) | Built with ❤️ and ☕
+⭐️ From [Oliver Fabián Stetcu Stepanov](https://github.com/oliver-fabian-stetcu-stepanov) | Built with ❤️ and ☕
 
