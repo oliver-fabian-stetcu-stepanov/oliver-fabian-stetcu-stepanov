@@ -7,7 +7,7 @@
   <a href="mailto:oliverfabian22@gmail.com">
     <img src="https://img.shields.io/badge/📧_oliverfabian22@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/oliver-fabian-stetcu">
+  <a href="https://linkedin.com/in/oliver-fabian-stetcu-stepanov">
     <img src="https://img.shields.io/badge/LinkedIn-Oliver_Fabián_Stetcu_Stepanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
