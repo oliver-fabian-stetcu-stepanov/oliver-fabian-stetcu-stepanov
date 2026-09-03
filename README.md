@@ -4,7 +4,7 @@
 
 <!-- Badges de contacto elegantes -->
 <div align="center">
-  <a href="mailto:oliverfabian22@gmail.com">
+  <a href="mailto:oliver.stetcu@gmail.com">
     <img src="https://img.shields.io/badge/📧_oliverfabian22@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/oliver-fabian-stetcu-stepanov">
